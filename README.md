@@ -3,5 +3,5 @@ In this repository I will upload some of the automated scripts which I have crea
 
 <b>1. DockerSetup.py</b> : In this python file I have created a script which will automatically download and configure the docker in your system. This is only for linux operating systems. <br>
 
-<b>Note :</b>I have used concepts of error handling for building this tool. It's very simple tool, but I will add some use-cases in the script for better performance.
+<b>Note :</b> I have not used the concepts of error handling for building this tool. It's very simple tool, but I will add some use-cases in the script for better performance.
 
