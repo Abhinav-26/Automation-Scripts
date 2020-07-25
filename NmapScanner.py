@@ -18,3 +18,54 @@ print("""
 
 usrInput = int(input("Enter the Number To Perform the Scans :"))
 
+print("[INFO] performing the scan...")
+time.sleep(2.0)
+
+if (usrInput == 1):
+	os.system("nmap {}".format(TargetIP))
+	break;
+
+elif (usrInput == 2):
+	port=input("Enter the IP Port to Scan :")
+	os.system("nmap -p {} {}".format(port,TargetIP))
+	break;
+
+elif (usrInput == 3):
+	#range=input("Enter the IP ranges to Scan :")
+	iprange = input("Enter the Complete IP Range :")
+	os.system("nmap -p {}".format(iprange))
+	break;
+
+elif (usrInput == 4):
+	num=int(input("Enter the count of ports you want to Scan :"))
+	os.system("nmap --top-ports {} {}".format(num,TargetIP))
+	break;
+
+elif (usrInput == 5):
+	os.system("nmap -p 80 -n {}".format(TargetIP))
+	break;
+
+elif (usrInput == 6):
+	os.system("nmap -sV {}".format(TargetIP))
+	break;
+
+elif (usrInput == 7):
+	os.system("nmap -sT {}".format(TargetIP))
+	break;
+
+elif (usrInput == 8):
+	os.system("nmap -sU {}".format(TargetIP))
+	break;
+
+elif (usrInput == 9):
+	os.system("nmap -Pn --script vuln {}".format(TargetIP))
+	break;
+
+elif (usrInput == 10):
+	os.system("nmap -sV -O -A -Pn {}".format(TargetIP))
+	break;
+
+else:
+	print("[INFO] exiting...")
+	time.sleep(2.0)
+	print("Please Enter Correct Number!!!")
