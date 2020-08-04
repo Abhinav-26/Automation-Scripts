@@ -15,6 +15,6 @@ In this python script I have used the concepts of conditional statements and com
 In this python file I have created a auto-naming script which I use to filter the data for training espically to work with images. you just need to mention the directory path in which images are present and it will satrting naming those images in a proper way. By default it will satrt with 1.jpg, 2.jpg,... and so on. It can useful for such use cases. I have used the OS module of Python for creating this.<br>
 
 <b>4. MailSender.py</b><br>
-In this python file I have created a mail-sending script.
+In this python file I have created a mail-sending script. I have used the concpets of smtp server to create this script. I use this script to send automated mails where-ever needed in my projects. To send mail just give the reciptent mail ID and it will automatically send the mail. Also at the place of usermail and password, enter your usermail and password of gmail account. 
 
 
