@@ -9,6 +9,6 @@ In this repository I will upload some of the automated scripts which I have crea
 
 <b>NOTE :</b> I haven't checked for the all the tasks mentioned in the menu. So if any ERROR comes please dm me on my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Profile</a>.<br>
 
-3. <b>ImageNaming.py</b> : In this python script I have created a auto-naming script which I used to filter the data for training espically to work with images. you just need to mention the directory path in which images are present.
+<b>3. ImageNaming.py</b> : In this python script I have created a auto-naming script which I used to filter the data for training espically to work with images. you just need to mention the directory path in which images are present.
 
 
