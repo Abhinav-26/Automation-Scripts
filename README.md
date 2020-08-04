@@ -7,6 +7,8 @@ In this repository I will upload some of the automated scripts which I have crea
 
 <b>2. NmapScanner.py </b> : In this python script I have used the concepts of conditional statements and commands of nmap. This script I have created just to enhance my skills and recall the concepts of nmap-scanner. It consists of 10 different types of nmap scans for which we need to remember the commands but this script will help me to just launch the scans without mugging up the commands for every other task.
 
-<b>NOTE :</b> I haven't checked for the all the tasks mentioned in the menu. So if any ERROR comes please dm me on my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Profile</a>.
+<b>NOTE :</b> I haven't checked for the all the tasks mentioned in the menu. So if any ERROR comes please dm me on my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Profile</a>.<br>
+
+3. <b>ImageNaming.py</b> : In this python script I have created a auto-naming script which I used to filter the data for training espically to work with images. you just need to mention the directory path in which images are present.
 
 
