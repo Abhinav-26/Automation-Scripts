@@ -9,6 +9,8 @@ In this repository I will upload some of the automated scripts which I have crea
 
 <b>NOTE :</b> I haven't checked for the all the tasks mentioned in the menu. So if any ERROR comes please dm me on my <a href="https://www.linkedin.com/in/abhinavdubey26/">LinkedIn Profile</a>.<br>
 
-<b>3. ImageNaming.py</b> : In this python file I have created a auto-naming script which I use to filter the data for training espically to work with images. you just need to mention the directory path in which images are present and it will satrting naming those images in a proper way. By default it will satrt with 1.jpg, 2.jpg,... and so on. It can useful for such use cases. I have used the OS module of Python for creating this.
+<b>3. ImageNaming.py</b> : In this python file I have created a auto-naming script which I use to filter the data for training espically to work with images. you just need to mention the directory path in which images are present and it will satrting naming those images in a proper way. By default it will satrt with 1.jpg, 2.jpg,... and so on. It can useful for such use cases. I have used the OS module of Python for creating this.<br>
+
+<b>4. MailSender.py</b> : In this python file I have created a mail-sending script.
 
 
