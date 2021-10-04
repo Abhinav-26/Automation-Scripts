@@ -1,5 +1,5 @@
 # Automated-Scripts
-In this repository I will upload some of the automated scripts which I have created to automate the boring tasks. Automation is Industry in Demand Technology and there have been several tools practises for making things automated. <b>DevOps</b> is one such technology for automating lots of stuffs.<br>
+The repository contains automation scripts which can be used to automate your go-to works or boring stuffs<br>
 
 <b>[1. DockerSetup.py](https://github.com/Abhinav-26/Automated-Scripts/blob/master/SetupDocker.py)</b><br>
 In this python file I have created a script which will automatically download and configure the docker in your system. This is only for linux operating systems. <br>
