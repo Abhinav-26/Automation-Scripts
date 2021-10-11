@@ -20,7 +20,7 @@ In this python file I have created a mail-sending script. I have used the concpe
 <b>NOTE :</b> I would suggest to use environment variables instead of directly using your MailID and Password, as I used because it is more convinient way as well as more secure way to use such scripts.
 
 
-<b>[5. Pg_Backup.sh](https://github.com/Abhinav-26/Automated-Scripts/blob/master/pg_backup.sh)</b><br>
+<b>[5. PgBackup.sh](https://github.com/Abhinav-26/Automated-Scripts/blob/master/pg_backup.sh)</b><br>
 I have created a shell script which migrates the database on schema level from one database instance to another without any downtime. This also takes a quick snapshot of the entire contents of the DB and stores in for later needs for disaster recovery needs.<br>
 
 <b>NOTE :</b> I would suggest to use environment variables instead of directly using your Database credentials, as I used because it is more convinient way.
